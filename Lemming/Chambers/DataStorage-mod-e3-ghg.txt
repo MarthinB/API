@@ -1,0 +1,1 @@
+received_at	device_id	f_port	f_cnt	decoded_payload	rssi	data_rate_index	consumed_airtime

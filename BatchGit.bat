@@ -1,3 +1,4 @@
-"C:\Program Files\Git\bin\git.exe" add .
-"C:\Program Files\Git\bin\git.exe" commit -m "scheduled commit"
-"C:\Program Files\Git\bin\git" push
+cd "C:\Users\Workstation\Desktop\API\Lemming\Chambers"
+start "C:\Users\Workstation\Desktop\API\Lemming\Chambers" TTS.DataStorage.Tab.Mod.exe
+cd "C:\Users\Workstation\Desktop\API\Lemming\Optod"
+start "C:\Users\Workstation\Desktop\API\Lemming\Optod" OPTOD_API.exe

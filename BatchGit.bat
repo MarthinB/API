@@ -5,3 +5,5 @@ cd "C:\Users\Workstation\Desktop\API\Lemming\Optod"
 start "C:\Users\Workstation\Desktop\API\Lemming\Optod" OPTOD_API.exe
 cd "C:\Users\Workstation\Desktop\API\Ormstrup\Buoy"
 start "C:\Users\Workstation\Desktop\API\Ormstrup\Buoy" Buoy_Ormstrup.exe
+cd "C:\Users\Workstation\Desktop\API\Ravnsoe\Nexsens_temp"
+start "C:\Users\Workstation\Desktop\API\Ravnsoe\Nexsens_temp" Buoy_Ravnsoe_Temp.exe

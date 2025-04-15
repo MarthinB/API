@@ -415,3 +415,4 @@ received_at	device_id	f_port	f_cnt	decoded_payload	rssi	data_rate_index	consumed
 2025-04-14T21:48:43.482818880Z	eui-70b3d57ed00597bb	106	7	{'CH4': 0, 'co2': 0, 'rh': 0, 'temp': 0, 'unix': 0}	-95		0.061696s
 2025-04-14T22:48:42.750850892Z	eui-70b3d57ed00597bb	106	8	{'CH4': 0, 'co2': 0, 'rh': 0, 'temp': 0, 'unix': 0}	-98		0.061696s
 2025-04-14T23:48:41.958077866Z	eui-70b3d57ed00597bb	106	9	{'CH4': 0, 'co2': 0, 'rh': 0, 'temp': 0, 'unix': 0}	-95		0.061696s
+2025-04-15T00:48:41.223142823Z	eui-70b3d57ed00597bb	106	10	{'CH4': 0, 'co2': 0, 'rh': 0, 'temp': 0, 'unix': 0}	-98		0.061696s

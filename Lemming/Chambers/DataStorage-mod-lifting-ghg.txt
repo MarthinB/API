@@ -447,3 +447,4 @@ received_at	device_id	f_port	f_cnt	decoded_payload	rssi	data_rate_index	consumed
 2025-04-24T22:32:58.954453544Z	eui-70b3d57ed005aab3	124	544	{'state': 0, 'unix': 1745537593}	-78		0.051456s
 2025-04-24T22:42:58.924410782Z	eui-70b3d57ed005aab3	124	545	{'state': 1, 'unix': 1745538193}	-75		0.051456s
 2025-04-25T02:42:58.873725730Z	eui-70b3d57ed005aab3	124	547	{'state': 1, 'unix': 1745552593}	-80		0.051456s
+2025-04-25T06:32:59.183048042Z	eui-70b3d57ed005aab3	124	548	{'state': 0, 'unix': 1745566393}	-76		0.051456s

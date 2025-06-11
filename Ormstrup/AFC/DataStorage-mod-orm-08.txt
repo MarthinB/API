@@ -725,3 +725,4 @@ received_at	device_id	f_port	f_cnt	decoded_payload	rssi	data_rate_index	consumed
 2025-06-11T09:44:04.904677357Z	eui-2cf7f12043300ae6	8	89	{'bat1': 416, 'bat2': 418, 'co2': 15900, 'humi': 83, 'methane': 359, 'temp': 20, 'unix': 1749642217}	-108		0.226304s
 2025-06-11T11:44:24.061890639Z	eui-2cf7f12043300ae6	8	90	{'bat1': 417, 'bat2': 417, 'co2': 28481, 'humi': 83, 'methane': 327, 'temp': 20, 'unix': 1749649443}	-115		0.226304s
 2025-06-11T11:53:16.829536985Z	eui-2cf7f12043300ae6	8	91	{'bat1': 417, 'bat2': 419, 'co2': 25853, 'humi': 81, 'methane': 225, 'temp': 19, 'unix': 1749649968}	-116		0.226304s
+2025-06-11T13:43:35.745486333Z	eui-2cf7f12043300ae6	8	92	{'bat1': 417, 'bat2': 418, 'co2': 40000, 'humi': 82, 'methane': 367, 'temp': 20, 'unix': 1749656595}	-116		0.226304s

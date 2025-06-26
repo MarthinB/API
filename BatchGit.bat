@@ -9,3 +9,5 @@ cd "C:\Users\Workstation\Desktop\API\Ravnsoe\Nexsens_temp"
 start "C:\Users\Workstation\Desktop\API\Ravnsoe\Nexsens_temp" Buoy_Ravnsoe_Temp.exe
 cd "C:\Users\Workstation\Desktop\API\Ormstrup\AFC"
 start "C:\Users\Workstation\Desktop\API\Ormstrup\AFC" AFC_2_to_11.exe
+cd "C:\Users\Workstation\Desktop\API\Grarup"
+start "C:\Users\Workstation\Desktop\API\Grarup" Grarup_AFC.exe

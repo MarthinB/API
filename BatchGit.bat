@@ -11,3 +11,5 @@ cd "C:\Users\Workstation\Desktop\API\Ormstrup\AFC"
 start "C:\Users\Workstation\Desktop\API\Ormstrup\AFC" AFC_2_to_11.exe
 cd "C:\Users\Workstation\Desktop\API\Grarup"
 start "C:\Users\Workstation\Desktop\API\Grarup" Grarup_AFC.exe
+cd "C:\Users\Workstation\Desktop\API\Grarup"
+start "C:\Users\Workstation\Desktop\API\Agri" Agri_AFC.exe

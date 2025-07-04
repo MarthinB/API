@@ -7510,3 +7510,5 @@ received_at	device_id	f_port	f_cnt	rssi	data_rate_index	consumed_airtime	frm_pay
 2025-07-04T10:40:58.948137410Z	eui-0018b24000008d10	1	68753	-110		2.465792s	XzD///////////////////////////////////////////////8=	5f30ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff	['nan']
 2025-07-04T11:36:22.108339028Z	eui-0018b24000008d10	1	68760	-109		2.465792s	RBD///////////////////////////////////////////////8=	4410ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff	['nan']
 2025-07-04T12:06:22.008844841Z	eui-0018b24000008d10	1	68764	-111		2.465792s	RJD///////////////////////////////////////////////8=	4490ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff	['nan']
+2025-07-04T12:11:00.932326494Z	eui-0018b24000008d10	1	68765	-110		2.465792s	X7D///////////////////////////////////////////////8=	5fb0ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff	['nan']
+2025-07-04T12:51:21.844935931Z	eui-0018b24000008d10	1	68770	-111		2.465792s	RFD///////////////////////////////////////////////8=	4450ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff	['nan']
